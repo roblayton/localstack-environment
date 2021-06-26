@@ -1,0 +1,3 @@
+{
+"recipients": {"DataType": "String", "StringValue": "rob@adyn.com,rob+1@adyn.com"},"sender": {"DataType": "String", "StringValue": "hire@adyn.com"},"subject":{"DataType": "String", "StringValue": "This is email content"}
+}
